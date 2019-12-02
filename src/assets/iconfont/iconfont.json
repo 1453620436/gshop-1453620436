@@ -1,0 +1,177 @@
+{
+  "id": "1492565",
+  "name": "尚硅谷Vue硅谷外卖",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36786",
+      "name": "服务中心",
+      "font_class": "fuwuzhongxin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "741862",
+      "name": "个人 (5)",
+      "font_class": "geren5",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1249047",
+      "name": "勾",
+      "font_class": "gou",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1251275",
+      "name": "remove",
+      "font_class": "remove",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "2727663",
+      "name": "个人",
+      "font_class": "personal",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "3588490",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "3823845",
+      "name": "U",
+      "font_class": "U",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "3872046",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "4251728",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "4425856",
+      "name": "吐槽-填充",
+      "font_class": "tucao-tianchong",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "5342825",
+      "name": "搜索",
+      "font_class": "lvsefenkaicankaoxianban-",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "5651482",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "5876884",
+      "name": "箭头",
+      "font_class": "biaoqing",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6249004",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6334467",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "7090032",
+      "name": "订单",
+      "font_class": "dingdan1",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "7708039",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "8286489",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "8492729",
+      "name": "搜索1",
+      "font_class": "sousuo",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "8783187",
+      "name": "箭头",
+      "font_class": "dibudaohanglan-",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "8897316",
+      "name": "选项",
+      "font_class": "xuanxiang",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "9524653",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "9559048",
+      "name": "心",
+      "font_class": "ziyuan",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "10864351",
+      "name": "加 添加",
+      "font_class": "changyongtubiao-mianxing-",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    }
+  ]
+}
